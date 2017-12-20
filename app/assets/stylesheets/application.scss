@@ -1,0 +1,29 @@
+
+ @import "bootstrap-sprockets";
+ @import "bootstrap";
+ @import "font-awesome";
+h2 {
+  text-align: center;
+  color: #4166a3;
+
+}
+h1 {
+  text-align: center;
+  color: #4166a3;
+}
+.btn-default {
+  border-radius: 22px;
+  margin-top: 12.5%;
+}
+.navbar-default {
+   background-color: #4166a3;
+   border-color: #030033;
+   color: white;
+}
+.fa-home {
+  color: white;
+
+}
+.name {
+  color: white;
+}
